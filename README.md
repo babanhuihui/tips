@@ -6,3 +6,5 @@ Completed user stories:
 
  Required: Tip calculator implementation
  Required: Settings page and storing defaults
+ 
+![Walkthrough](temp.gif)
